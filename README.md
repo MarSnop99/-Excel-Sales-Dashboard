@@ -1,6 +1,6 @@
 # Interaktywny Dashboard Sprzedaży w Excelu
 
-![Podgląd Dashboardu](dashboard-screenshot.png)
+![Podgląd Dashboardu](https://github.com/MarSnop99/-Excel-Sales-Dashboard/blob/main/Dashboard%20Screenshot.png?raw=true)
 
 ## 1. Cel Biznesowy Projektu
 Celem projektu było przekształcenie surowego zbioru danych sprzedażowych w pełni interaktywne narzędzie analityczne. Dashboard pozwala na szybką identyfikację trendów, analizę wyników regionalnych oraz znalezienie najlepiej sprzedających się produktów.
